@@ -5,7 +5,7 @@ import <Header>
 const App = () => {
   return (
     <div>
-      O hai
+      
     </div>
   )
 }
